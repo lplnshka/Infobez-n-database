@@ -23,3 +23,6 @@ https://docs.google.com/document/d/11wm2BTR0VpGFw5l_4LMoSSToyzO_L5fR11U-wbvNDhE/
 
 БД СУБД конспект
 https://docs.google.com/document/d/1_Th77sYgKfPl9qGa8lyGMjP_0xvnrmS-/edit?usp=sharing&ouid=111716038811778820150&rtpof=true&sd=true
+
+Сайт Bluefish
+https://lplnshka.github.io/vangogh/
