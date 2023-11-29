@@ -27,5 +27,8 @@ https://docs.google.com/document/d/1_Th77sYgKfPl9qGa8lyGMjP_0xvnrmS-/edit?usp=sh
 Сайт Bluefish
 https://lplnshka.github.io/vangogh/
 
-Задания на python
+Задания на pycharm
 https://docs.google.com/document/d/1coTn6FC77yv3a0-ygHpFrsYf8nnUrzxV/edit?usp=drivesdk&ouid=111716038811778820150&rtpof=true&sd=true
+
+RedOs
+https://docs.google.com/document/d/1LS7VViuhV4A55Et0OMgQPow9VYoTEnJRs51HBvdaSwk/edit?usp=sharing
