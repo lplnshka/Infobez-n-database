@@ -32,3 +32,6 @@ https://docs.google.com/document/d/1coTn6FC77yv3a0-ygHpFrsYf8nnUrzxV/edit?usp=dr
 
 RedOs
 https://docs.google.com/document/d/1LS7VViuhV4A55Et0OMgQPow9VYoTEnJRs51HBvdaSwk/edit?usp=sharing
+
+Stepik SQL
+https://lplnshka.github.io/stepik2/
