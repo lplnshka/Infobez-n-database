@@ -38,3 +38,6 @@ https://github.com/lplnshka/flask
 
 Stepik SQL
 https://lplnshka.github.io/stepik2/
+
+Stepik Безопасность компьютерных сетей
+https://lplnshka.github.io/stepik1/
